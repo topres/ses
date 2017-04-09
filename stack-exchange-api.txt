@@ -1,0 +1,5 @@
+https://api.stackexchange.com/docs
+https://api.stackexchange.com/docs/search
+https://api.stackexchange.com/2.2/search?order=desc&sort=activity&site=stackoverflow&intitle=generics
+https://api.stackexchange.com/2.2/questions/8481052?site=stackoverflow&filter=withbody
+
