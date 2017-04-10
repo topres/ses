@@ -5,14 +5,8 @@ type SearchResult struct {
 }
 
 type Question struct {
-    score int
     title string
-    excerpt string
-    body string
-    tags []string
     link string
-    answers []Answer
-    comments []Comment
 }
 
 type Comment struct {
